@@ -4,7 +4,7 @@ This repo contains the code developed for the first project of my 3D perception 
 # Content
 In the notebook "U-Net" you can find the implementation of a U-Net to perform semantic segmentation on the famous Cityscape dataset
 > [!IMPORTANT]
-> The notebook was developed on Kaggle environment so all the folder path refers to the Cityscapes dataset that you can simply upload on Kaggle
+> The notebook was developed on Kaggle environment so all the folder path refers to the Cityscapes dataset that you can simply upload on Kaggle, link to the used dataset: https://www.kaggle.com/datasets/electraawais/cityscape-dataset
 
 At the end of the notebook you can find some test (IoU and visual tests) to assess the network performances
 
